@@ -17,5 +17,5 @@ Steps:
 
 - Right-click and run com.logintest.testscripts.LoginTest.java using TestNG
 - After completion of test check following
-  Failed screenshots at :   ./DDMMYYYY/****.png
-  HTML log at           :   ./test-output/default test.html
+  A. Failed screenshots at :   ./DDMMYYYY/****.png
+  B. HTML log at           :   ./test-output/default test.html
