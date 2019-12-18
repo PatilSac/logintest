@@ -1,9 +1,9 @@
 # logintest
 
 System requirements: 
-Mac OS Catalina 10.16.1
-Eclipse
-java version "1.8.0_231"
+  1. Mac OS Catalina 10.16.1
+  2. Eclipse
+  3. java version "1.8.0_231"
 
 Steps:
 - Ensure that JDK, eclipse appropriate versions of chrome and firefox are installed
