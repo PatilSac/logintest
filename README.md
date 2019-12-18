@@ -10,7 +10,7 @@ Steps:
 - Install TestNG and Maven from help options
 - Clone/download repository
 - Goto Java build path for project and import all external jar's from ./lib to the eclipse project
-- Make following changes to ./scr/com/logintest/config/Browser.properties
+- Make following changes to ./src/com/logintest/config/Browser.properties
   1. Specify location for chromedriver ex. chromelocation=/Users/Downloads/chromedriver
   2. Specify location for firefoxdriver ex. firefoxlocation=/Users/Downloads/geckodriver
   3. Specify browser to use on each test case at last column of testdata at testdata=./src/com/logintest/resources/LoginTestData.xlsx
